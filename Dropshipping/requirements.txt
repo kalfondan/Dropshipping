@@ -1,0 +1,19 @@
+# --- Core Deep Learning & Vision ---
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=9.0.0
+scikit-image
+
+# --- Natural Language Processing (NLP) ---
+transformers
+
+# --- UI & Data Handling ---
+streamlit
+pandas
+numpy
+
+# --- Web Scraping & API ---
+requests
+beautifulsoup4
+cloudscraper
+tqdm
